@@ -1,9 +1,4 @@
-//============================================================================
-// Name        : CS_2250 Project_5.cpp
-// Author      : Warren Truong
-// Description : This project is for testing the use and understanding of
-// binary tree and display frequency of characters in string
-//============================================================================
+
 
 #include <iostream>
 #include <fstream>
